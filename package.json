@@ -33,6 +33,7 @@
     "os": false
   },
   "dependencies": {
+    "@firaenix/bittorrent-protocol": "^3.2.13",
     "addr-to-ip-port": "^1.4.2",
     "bitfield": "^3.0.0",
     "bittorrent-dht": "^10.0.0",
